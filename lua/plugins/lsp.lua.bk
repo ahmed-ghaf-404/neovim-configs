@@ -1,0 +1,17 @@
+return {
+  -- Python
+  {
+    "neovim/nvim-lspconfig",
+    opts = {
+      servers = {
+        pyright = {},
+      },
+    },
+  },
+
+  -- TypeScript (recommended LazyVim way)
+  { import = "lazyvim.plugins.extras.lang.typescript" },
+
+  -- JSON + schemastore
+  { import = "lazyvim.plugins.extras.lang.json" },
+}
