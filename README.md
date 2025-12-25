@@ -2,11 +2,13 @@
 
 Color scheme: catpuccin - mocha
 
-Daily tips: <leader>+ntr for a random tip!
+Daily tips: (leader_key + ntr) for a random tip!
 
 --------------------------------
-To Be Researched:
-Telescope - Treesitter
+## To Be Researched:
+- Telescope
+- Treesitter
+  
 The above plugins will need further configurations before I feel comfortable using or adding anything on top of them
 
 --------------------------------
